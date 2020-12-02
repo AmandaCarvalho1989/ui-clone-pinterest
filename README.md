@@ -1,5 +1,5 @@
 # UI Clone - Pinterest (Homepage)
-Pinterest Homepage(https://br.pinterest.com/) UI Clone para estudo
+Este mini projeto foi realizado com objetivo de estudo, para aprender mais sobre animações em CSS e JS, utilizando como base a homepage do Pinterest (https://br.pinterest.com/).\
 
 ### Preview
 
