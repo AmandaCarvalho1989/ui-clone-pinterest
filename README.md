@@ -5,7 +5,9 @@
 
 ### Preview
 
-
+<h1 align="center">
+  <img alt="Pinterest UI Clone" title="#Pinterest UI Clone" src="./assets/pinterest-clone-video.gif" />
+</h1>
 
 ### Recursos 
 - [x]  HTML, SCSS, JS
