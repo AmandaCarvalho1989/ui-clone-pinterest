@@ -1,7 +1,5 @@
-<h1 align="center">UI Clone - Pinterest (Homepage)</h1> 
-<p align="center">Pinterest Homepage(https://br.pinterest.com/) UI Clone para estudo.</p>
-
-<hr/>
+# UI Clone - Pinterest (Homepage)
+Pinterest Homepage(https://br.pinterest.com/) UI Clone para estudo
 
 ### Preview
 
