@@ -1,5 +1,5 @@
 # UI Clone - Pinterest (Homepage)
-Este mini projeto foi realizado com objetivo de estudo, para aprender mais sobre animações em CSS e JS, utilizando como base a homepage do Pinterest (https://br.pinterest.com/).\
+Este mini projeto foi realizado com objetivo de estudo, para aprender mais sobre animações em CSS e JS, utilizando como base a homepage do Pinterest (https://br.pinterest.com/).
 
 ### Preview
 
